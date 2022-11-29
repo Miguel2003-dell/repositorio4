@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Soy el contacto</h1>
+    <h1>Memo eres un tonto</h1>
+    <h1>Como te pudieron meter 2 goles!?</h1>
 </body>
 </html>
